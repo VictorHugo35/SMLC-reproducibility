@@ -1,0 +1,8 @@
+data/LD2011_2014.txt
+.venv/
+figures/*
+!figures/README.md
+run_pipeline.log
+verification.log
+__pycache__/
+*.py[cod]

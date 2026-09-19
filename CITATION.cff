@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this software package."
+title: "Spectral Mixed-Likelihood Calibration reproducibility code"
+type: software
+version: 1.0.0
+date-released: 2026-09-06
+authors:
+  - family-names: "Hernández-Hernández"
+    given-names: "Victor Hugo"
+    email: "vhernandezh2002@alumno.ipn.mx"
+  - family-names: "Zaleta-Garcia"
+    given-names: "David Jafet"
+    email: "dzaletag1800@alumno.ipn.mx"
+  - family-names: "Sarmiento-Rosales"
+    given-names: "Eliseo"
+    email: "esarmiento@ipn.mx"
+  - family-names: "Vidal-Ojeda"
+    given-names: "Francisco Antonio"
+    email: "fvidalo1900@alumno.ipn.mx"
+  - family-names: "Soto-Islas"
+    given-names: "Jusset Zaid"
+    email: "jsotoi1900@alumno.ipn.mx"
+  - family-names: "Carsteanu"
+    given-names: "Alin-Andrei"
+    email: "acarsteanu@ipn.mx"
